@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka-solo",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/migace/parcel-project-template-pl-main",
+  "homepage": "https://dariuszcedro.github.io/filmoteka-solo",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url parcel-project-template-pl-main"
+    "build": "parcel build src/*.html --public-url filmoteka-solo"
   },
   "repository": {
     "type": "git",
